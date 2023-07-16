@@ -1,0 +1,10 @@
+README.md
+setup.py
+Code/__init__.py
+Code/main.py
+Code/scrapper_bcrp_data.py
+scrapper_bcrp_data.egg-info/PKG-INFO
+scrapper_bcrp_data.egg-info/SOURCES.txt
+scrapper_bcrp_data.egg-info/dependency_links.txt
+scrapper_bcrp_data.egg-info/not-zip-safe
+scrapper_bcrp_data.egg-info/top_level.txt

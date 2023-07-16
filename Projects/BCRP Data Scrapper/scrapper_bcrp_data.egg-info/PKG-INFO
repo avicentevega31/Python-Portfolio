@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: scrapper-bcrp-data
+Version: 0.0.0
+Summary: Librería de python que te permite descargar data del Banco Central de Reserva del Perú (BCRP)
+Home-page: https://github.com/avicentevega31/Python-Portfolio/tree/master/Projects/BCRP%20Data%20Scrapper
+Author: Adrian Vicente Vega
+Author-email: a.vicentevega31@gmail.com
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT Lincense
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+
+# BCRP Data Scrapper
+## DefiniciÃ³n
+LibrerÃ­a de python que te permite descargar data del Banco Central de Reserva del PerÃº (BCRP)
+
+## InstalaciÃ³n
+
+1. Importar librerias  
+
+    <code>pip install -r requirements.txt</code>  
+
+    <note>Nota: Recomendable realizarlo desde la consola de windws.</note>
+
+2. Importar paquete  
+
+    <code>pip install bcrp_data</code>  
+
+    <note>Nota: Recomendable realizarlo desde la consola de windws.</note>
