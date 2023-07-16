@@ -1,0 +1,6 @@
+__title__ = "bcrp_data"
+__version__ = "0.0.0"
+__autor__ = "Adrian Vicente Vega"
+__email__ = "a.vicentevega31@gmail.com"
+__description__ = "Librería de python que te permite descargar data del Banco Central de Reserva del Perú (BCRP)"
+__url__ = "https://github.com/avicentevega31/Python-Portfolio/tree/master/Projects/BCRP%20Data%20Scrapper"
