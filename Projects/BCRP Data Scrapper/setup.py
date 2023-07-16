@@ -20,6 +20,5 @@ if __name__ == "__main__":
             "License :: OSI Approved :: MIT Lincense",
             "Operating System :: OS Independent",
             "Programming Language :: Python"
-        ],
-        
-    )
+            ],
+        )
