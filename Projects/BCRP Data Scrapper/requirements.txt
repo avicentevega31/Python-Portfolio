@@ -1,7 +1,0 @@
-altair
-pandas
-streamlit
-matplotlib
-bs4
-datetime
-requests
